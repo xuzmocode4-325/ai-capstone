@@ -1,0 +1,9 @@
+beir
+faiss-cpu
+vertexai
+numpy
+pandas
+pytrec_eval
+google-cloud-aiplatform[all]
+scipy
+gensim
